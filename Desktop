@@ -1,0 +1,191 @@
+<link rel="stylesheet" href="//static.zalora.com/css/onsite.css">
+<style>
+body{background:#fff!important}
+    .cms-inactive-deal-state {
+        opacity: .4
+    }
+
+    .cms-section-heading {
+        text-transform: none;
+        font-size: 28px;
+        padding-bottom: 0px;
+        border-bottom: 0px;
+    }
+
+    ul.cms-tabs li.cms-sis-tabs { 
+        border-top: 1px solid #000; 
+        border-left: 1px solid #000; 
+        border-right: 1px solid #000; 
+        padding: 10px 15px; 
+        letter-spacing: 2px; 
+        font-size: 14px;
+        width: 150px; 
+    }
+    ul.cms-tabs li.current {
+        background: #000;
+        color: #fff;
+    }
+
+    .cms-hp-b13-headline {
+        text-transform: none;
+        font-size: 16px;
+        color: #000;
+        font-weight: bold;
+        margin-bottom: 10px;
+        letter-spacing: 0px;
+    }
+</style>
+
+<div id="cms-csaTrackingContainer">
+<div class="cms-container">
+
+
+        <div class="cms-row">
+            <div class="cms-full">
+                <a href="https://www.zalora.co.id/women/special-price/pakaian/dress/">                  
+                    <img id="js-fb1-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/2006_996x250_dress_women.jpg" alt="">
+                </a>
+            </div>
+        </div>
+
+    <div class="cms-row txtCenter">
+
+        <div class="cms-full">
+            <div class="cms-spacer-25"></div>
+        </div>
+
+        <!-- Women Brands Tab -->
+      
+
+        <div class="cms-full current cms-tab-content txtCenter" id="jsTab-1">
+            <div class="cms-full cms-brand-placeholders">
+                
+                <!-- EG FB1 -->
+                <div class="lfloat cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/zalora/">
+                        <img id="js-fb1-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_zaloraupto60_70_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                             UP TO 50% OFF
+                        </div>
+                    </a>
+                </div>
+                <!-- EG FB2 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/zalia/">
+                        <img id="js-fb2-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_zaliaupto40_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                           UP TO 40% OFF
+                        </div>
+                    </a>
+                </div>
+                <!-- EG FB3 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/mango/">
+                        <img id="js-fb3-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_mangoupto50_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                          UP TO 50% OFF
+                        </div>
+                    </a>
+                </div>          
+            </div>
+
+            <div class="cms-full cms-brand-placeholders">
+                
+                <!-- EG FB3 -->
+                <div class="lfloat cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/something-borrowed/">
+                        <img id="js-fb3-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_somethingborrowedupto60_70_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                            UP TO 50% OFF
+                        </div>
+                    </a>
+                </div> 
+                <!-- EG FB1 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/etoile-d-elfas">
+                        <img id="js-fb1-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/2306_322x165_etoiledelfasupto50_women_dressrev1.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                             UP TO 60% OFF
+                        </div>
+                    </a>
+                </div>
+                <!-- EG FB2 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/?brand=accent--accent-festive-collection">
+                        <img id="js-fb2-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_Accentupto70_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                          UP TO 70% OFF
+                        </div>
+                    </a>
+                </div>                   
+            </div>
+          
+           <div class="cms-full cms-brand-placeholders">
+                
+                <!-- EG FB1 -->
+                <div class="lfloat cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/?brand=mint--mint-festive-collection">
+                        <img id="js-fb1-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/1206_322x165_mintupto70_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                            UP TO 60% OFF
+                        </div>
+                    </a>
+                </div>
+                <!-- EG FB2 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/eprise/">
+                        <img id="js-fb2-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/2306_322x165_EPRISEUPTO60_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                            UP TO 50% OFF
+                        </div>
+                    </a>
+                </div>
+                <!-- EG FB3 -->
+                <div class="lfloat cms-spacer-3grid cms-top-brands">
+                    <a href="/women/special-price/pakaian/dress/the-executive/">
+                        <img id="js-fb3-banner-tracker" src="https://static-id.zacdn.com/cms/evergage/2306_322x165_theexecutive70_women_dress.jpg" alt="">
+                        <div class="cms-spacer-15"></div>
+                        <div class="cms-hp-b13-headline">
+                            UP TO 70% OFF
+                        </div>
+                    </a>
+                </div>          
+            </div>
+            <div class="cms-full mtm cms-brand-placeholders">
+                <div class="cms-full txtCenter">
+                    <div class="cms-spacer-15"></div>
+                        <a href="https://www.zalora.co.id/women/special-price/pakaian/dress/"><button class="btn btn--medium btn--fluid">SHOP ALL > </button></a>
+                </div>
+            </div>
+    </div>
+</div>
+</div>
+</div>
+
+<script>
+    $(function () {
+
+        var csaLabel = 'categoryDealsHeels20170604';
+
+        $('#cms-csaTrackingContainer a').each(function () {
+            var urlParam1 = '?csa=' + csaLabel;
+            var urlParam2 = '&csa=' + csaLabel;
+
+            var theHref = $(this).attr("href");
+            if (theHref.indexOf("?") > -1) {
+                $(this).attr("href", theHref + urlParam2);
+            } else {
+                $(this).attr("href", theHref + urlParam1);
+            }
+        });
+    });
+
+</script>
