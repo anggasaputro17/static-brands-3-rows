@@ -1,0 +1,350 @@
+<style>
+    .cms-pl-mtop-lg {
+        margin-top: 10px;
+    }
+
+    .cms-mtop-fb { 
+        margin-top: 35px;  
+    }
+
+        .cms-pl-mtop-lg {
+        margin-top: 10px;
+    }
+
+    .cms-res-font-lg {
+        font-size: 1.2em;
+        line-height: 1.5em;
+        color: #000;
+    }
+
+    .cms-res-font-sm {
+        font-size: 1em;
+        line-height: 1.5em;
+        color: #000;
+    }
+
+    /* override paper to remove borders */
+    .paper {
+        margin:0px;
+        border: 0px;
+    }
+
+    .cms-tab-btns.current {
+        background: #000;
+        color: #fff;
+    }
+
+    .cms-tab-content{
+        display: none
+    }
+
+    .cms-tab-content.current{
+        display: block;
+    }
+    
+    .cms-tab-btns {
+        width: 100%;
+        padding: 12px;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    .cms-mtop-fb { 
+        margin-top: 35px;  
+    }
+</style>
+
+<style>
+.cms-thick {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cms-align-center {
+    text-align: center;
+}
+.cms-full {
+    width: 100%;
+}
+.cms-half {
+    width: 50%;
+}
+.cms-full, .cms-half {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 -4px 0 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.cms-spacer25{
+    padding-bottom:55px;
+}
+</style>
+
+<div class="full current txtCenter ">
+    <div class="full align-center cms-spacer25">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2203_1200x627_branddeals_men.jpg" width="100%">
+    </div>
+
+<!--BARIS 1 -->
+<div class="full current txtCenter">
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/nike">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2703_322x165_nikeupto50_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Special Price
+                </strong>
+            </div>
+        </a>
+    </div>
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/all-products/?cmpgn_one=adidas-birthday">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2703_322x165_adidas_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Extra 20% Off<br> Kode Voucher: ADIDAS20
+                </strong>
+            </div>
+        </a>
+    </div>
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/zalora">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_zaloraupto60.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 70% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/?brand=2401--jaxon">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_2401jaxonupto70_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 80% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+<!--BARIS 2 -->
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/vans">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_2401vansupto40_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                   Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/billabong">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2001_322x165_billabong.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+     <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/all-products/?brand=dc--quiksilver">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_dcquiksilverupto50_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/ray-ban">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_raybanupto35_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 35% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+<!--BARIS 3 -->
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/casio">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_casioupto40_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/salt-n-pepper">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2703_322x165_saltnpepper_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 60% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/?brand=3second--famo--greenlight--moutley">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_3secondupto70_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 70% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/lois-jeans">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2703_322x165_lois_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+<!--BARIS 4 -->
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/volcom">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/1303_322x165_volcom.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/jobb">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_jobb_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/tolliver">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_tolliverstartfrom49_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Mulai Dari 49.000
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/new-balance">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_NB_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+<!--BARIS 5 -->
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/marelli">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/0803_322x165_marelli.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/hush-puppies">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_hushpuppies_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/?brand=reebok--skechers">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_reeboksketcher_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/puma">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2403_322x165_pumaupto40_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+
+<!--BARIS 6 -->
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/lombardi-giovanni">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_lombardigiovanni_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 50% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/alba">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_alba_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/special-price/bonia">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_bonia_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 40% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+    <div class="cms-half cms-thick cms-align-center">
+        <a href="/men/harga-spesial/?brand=emba-casual--emba-jeans">
+            <img src="[MEDIA_BASE_URL]/cms/evergage/2903_322x165_emba_men.jpg" width="90%">
+            <div class="breathing-room cms-res-font-lg js-en-activate" style="">
+                <strong style="font-size: 14px;">
+                    Up To 60% Off
+                </strong>
+            </div>
+        </a>
+    </div>
+</div>
